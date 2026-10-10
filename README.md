@@ -1,5 +1,7 @@
 # 总裁小助理 · PetAssistant
 
+**简体中文** | [English](README.en.md)
+
 一只安静待在 macOS 桌面上的小猫。点击它，查看并听取今天的 Apple Calendar 日程和 To-do list；不点击时，它就留在原地陪伴你。
 
 ![当前的小猫](Resources/cat_idle.png)
@@ -19,7 +21,16 @@
 
 ## 构建与启动
 
-当前构建脚本面向 Apple Silicon，编译目标为 macOS 14。需要 Xcode Command Line Tools。
+### 兼容性
+
+| 平台 | 当前状态 |
+|---|---|
+| Apple Silicon Mac（M 系列），macOS 14 及以上 | 当前构建目标；已在开发者本机验证 |
+| Intel Mac | 尚未提供 Intel 或通用安装包，未验证 |
+| macOS 13 及更早版本 | 当前构建不支持 |
+| Windows / Linux | 当前版本不支持 |
+
+需要 Xcode Command Line Tools。当前仓库提供源码构建方式，尚未发布可直接下载的安装包。
 
 ```bash
 ./scripts/build.sh
