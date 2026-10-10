@@ -1,0 +1,18 @@
+# Track only the reviewed project files at the repository root.
+/*
+!/.gitignore
+!/README.md
+!/Package.swift
+!/Sources/
+!/Resources/
+!/scripts/
+
+# Keep local caches, bundles and handoff notes on this computer.
+.DS_Store
+*.log
+*.swp
+.env
+.env.*
+/scripts/*
+!/scripts/build.sh
+!/scripts/install-login.sh

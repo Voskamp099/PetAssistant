@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>CFBundleDevelopmentRegion</key>
+    <string>zh_CN</string>
+    <key>CFBundleExecutable</key>
+    <string>PetAssistant</string>
+    <key>CFBundleIdentifier</key>
+    <string>com.zhaozong.petassistant</string>
+    <key>CFBundleInfoDictionaryVersion</key>
+    <string>6.0</string>
+    <key>CFBundleName</key>
+    <string>PetAssistant</string>
+    <key>CFBundleDisplayName</key>
+    <string>总裁小助理</string>
+    <key>CFBundlePackageType</key>
+    <string>APPL</string>
+    <key>CFBundleShortVersionString</key>
+    <string>0.1.0</string>
+    <key>CFBundleVersion</key>
+    <string>1</string>
+    <key>LSMinimumSystemVersion</key>
+    <string>13.0</string>
+    <key>LSUIElement</key>
+    <true/>
+    <key>NSHighResolutionCapable</key>
+    <true/>
+    <key>NSCalendarsUsageDescription</key>
+    <string>需要读取你的 Apple 日历，赵总才能在早上告诉你今天几点到几点要做什么。</string>
+    <key>NSCalendarsFullAccessUsageDescription</key>
+    <string>需要完整日历访问权限，赵总才能播报今日所有安排（含自定义日历）。</string>
+    <key>NSMicrophoneUsageDescription</key>
+    <string>暂未使用。预留。</string>
+    <key>NSSpeechRecognitionUsageDescription</key>
+    <string>暂未使用。预留。</string>
+</dict>
+</plist>
