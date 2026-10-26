@@ -25,7 +25,7 @@
 
 | 平台 | 当前状态 |
 |---|---|
-| Apple Silicon Mac（M 系列），macOS 14 及以上 | 当前构建目标；已在开发者本机验证 |
+| Apple 芯片的 Mac，macOS 14 及以上 | 当前构建目标；已在目标系统上验证 |
 | Intel Mac | 尚未提供 Intel 或通用安装包，未验证 |
 | macOS 13 及更早版本 | 当前构建不支持 |
 | Windows / Linux | 当前版本不支持 |
