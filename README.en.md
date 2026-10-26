@@ -25,12 +25,11 @@ A quiet desktop cat for macOS. Click it to view and hear today's Apple Calendar 
 
 | Platform | Current status |
 |---|---|
-| Mac with Apple silicon, macOS 14 or later | Current build target; verified on the target system |
-| Intel Mac | No Intel or universal app bundle provided yet; untested |
+| macOS 14 or later | Current build target; verified on the target system |
 | macOS 13 or earlier | Unsupported by the current build |
 | Windows / Linux | Unsupported by the current version |
 
-Xcode Command Line Tools are required. The repository currently provides a source build; a ready-to-download app release has not been published.
+Xcode Command Line Tools are required. The repository currently provides a source build; a ready-to-download app release has not been published, and no build for other architectures is provided.
 
 ```bash
 ./scripts/build.sh
