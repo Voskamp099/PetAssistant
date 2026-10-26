@@ -25,12 +25,11 @@
 
 | 平台 | 当前状态 |
 |---|---|
-| Apple 芯片的 Mac，macOS 14 及以上 | 当前构建目标；已在目标系统上验证 |
-| Intel Mac | 尚未提供 Intel 或通用安装包，未验证 |
+| macOS 14 及以上 | 当前构建目标；已在目标系统上验证 |
 | macOS 13 及更早版本 | 当前构建不支持 |
 | Windows / Linux | 当前版本不支持 |
 
-需要 Xcode Command Line Tools。当前仓库提供源码构建方式，尚未发布可直接下载的安装包。
+需要 Xcode Command Line Tools。当前仓库提供源码构建方式，尚未发布可直接下载的安装包，也未提供其他架构的构建产物。
 
 ```bash
 ./scripts/build.sh
