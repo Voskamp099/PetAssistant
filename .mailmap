@@ -1,0 +1,15 @@
+# 提交身份归并（mailmap）
+#
+# 历史提交已统一改写为 Voskamp099 <voskamp099@users.noreply.github.com>。
+# 这一行是防御：任何人在任何机器上误用了下列邮箱提交，GitHub 都会把它算到
+# 本账号头上，而不是别人的账号。
+#
+# 格式：显示身份 <显示邮箱> <提交里实际使用的邮箱>
+# GitHub 官方支持 .mailmap 归并贡献者身份，无需改写提交历史。
+#
+# 参考：https://docs.github.com/en/contributing/setting-up-and-managing-your-github-user-account/managing-commit-email-addresses
+
+Voskamp099 <voskamp099@users.noreply.github.com> Raelynn <raelynn@users.noreply.github.com>
+Voskamp099 <voskamp099@users.noreply.github.com> Raelynn Zhao <raelynn_0612@163.com>
+Voskamp099 <voskamp099@users.noreply.github.com> MintMuse <141211105+Voskamp099@users.noreply.github.com>
+Voskamp099 <voskamp099@users.noreply.github.com> Voskamp099 <voskamp099@users.noreply.github.com>
